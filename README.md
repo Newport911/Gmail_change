@@ -26,7 +26,7 @@ ChromeDriver: Скачать ChromeDriver
 
 bash
 Копировать код
-git clone https://github.com/your_username/your_repository_name.git
+git clone https://github.com/Newport911/Gmail_change.git
 cd your_repository_name
 Запуск скрипта:
 
@@ -68,7 +68,7 @@ Recovery Email: Резервный email пользователя.
 Если вы хотите внести изменения или улучшения в проект, пожалуйста, создайте pull request. Все предложения будут рассмотрены.
 
 Контакты
-Если у вас возникли вопросы или предложения, свяжитесь со мной через email@example.com.
+Если у вас возникли вопросы или предложения, свяжитесь со мной через portnovphoto@gmail.com.
 
 Пример использования
 bash
